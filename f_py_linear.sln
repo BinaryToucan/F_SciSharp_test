@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "f_py_linear", "f_py_linear\f_py_linear.fsproj", "{324F73DE-C79A-42D6-AC5E-FE4877BAFD4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{324F73DE-C79A-42D6-AC5E-FE4877BAFD4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324F73DE-C79A-42D6-AC5E-FE4877BAFD4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324F73DE-C79A-42D6-AC5E-FE4877BAFD4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324F73DE-C79A-42D6-AC5E-FE4877BAFD4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
